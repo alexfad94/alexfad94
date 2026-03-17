@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Привет, я Александр — AI-разработчик и промпт-инженер
 
-<!--
-**alexfad94/alexfad94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я создаю умных AI-ассистентов и автоматизирую бизнес-процессы с помощью нейросетей.  
+Фокус — Telegram-боты, RAG-системы, интеграция GPT и других LLM в реальные продукты.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Текущий фокус
+- AI-агенты и мультимодальные боты
+- RAG-системы для работы с корпоративными знаниями
+- Автоматизация поддержки и продаж через Telegram
+- От идеи до запуска: полный цикл разработки
+
+## 💻 Стек технологий
+**Python** · **FastAPI** · **Node.js** · **PostgreSQL** · **Docker** · **OpenAI API**
+
+## 🧠 Подход к работе
+Глубоко вникаю в каждую задачу. Не бросаю сложные проблемы — ищу решения до результата.  
+Быстрое прототипирование, чистый код, ориентация на бизнес-ценность.
+
+---
+
+## ⚙️ Технологии и инструменты
+
+**Backend**: Python, FastAPI, Flask, Node.js, REST, Webhooks
+
+**Боты и автоматизация**: Telegram Bot API, aiogram, Celery/Redis, сценарии и автоворонки
+
+**Данные и инфраструктура**: PostgreSQL, Redis, Docker, Vector DB (Pinecone/Chroma)
+
+**AI/LLM**: OpenAI API, Anthropic Claude, LangChain, RAG, промпт-инжиниринг, fine-tuning
+
+**Другое**: Git, GitHub Actions, Linux, CI/CD базового уровня
+
+---
+
+## 🏆 Избранные проекты
+
+**Telegram-бот с AI-поддержкой (RAG)**  
+Автоответы на вопросы по базе знаний компании. Интеграция с документами и инструкциями.  
+`Python` · `FastAPI` · `LangChain` · `PostgreSQL` · `OpenAI API`
+
+**AI-ассистент для генерации контента**  
+Мультипровайдерская система (OpenAI, GigaChat, Yandex GPT) с умным роутингом запросов.  
+`Python` · `FastAPI` · `Redis` · `AsyncIO`
+
+**Бот для автоворонок и продаж**  
+Сценарии прогрева, подбор товаров, интеграция с CRM.  
+`aiogram` · `PostgreSQL` · `Celery`
+
+---
+
+📫 **Связаться со мной**: @Alexsing911  
+💼 **Фриланс**: Доступен для проектов на Kwork и других платформах
+
+---
+
+*Всегда открыт к интересным AI-проектам и сложным задачам!* 🚀
