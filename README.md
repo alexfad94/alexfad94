@@ -56,3 +56,7 @@
 ---
 
 *Всегда открыт к интересным AI-проектам и сложным задачам!* 🚀
+
+## 📊 GitHub Статистика
+ 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexfad94&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfad94&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
